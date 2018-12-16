@@ -29,7 +29,10 @@ class Obat{
 
     //query ini untuk mengecek obat yang tidak ada
     //$query = "SELECT * FROM $this->table_name WHERE `nama_obat` LIKE '%Badut%' LIMIT 1";
- 
+
+    //query untuk mencari suatu obat tertentu
+    //$query = "SELECT * FROM $this->table_name WHERE `nama_obat` LIKE '%Amoxicilin%' LIMIT 1";
+
     // prepare query statement
     $stmt = $this->conn->prepare($query);
  
