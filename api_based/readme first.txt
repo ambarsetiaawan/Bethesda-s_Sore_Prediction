@@ -1,1 +1,0 @@
-Pada blok kode program yang ini, program dites menggunakan postman, jadi pada browser hanya hanya ditampilkan sebuah tulisan yang jika ditekan akan tersambung ke keluaran json file dari daftar obat yang ada. 
